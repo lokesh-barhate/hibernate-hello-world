@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
+=======
+<?xml version="1.0" encoding="UTF-8" ?>
+>>>>>>> bbcd825375333a929fceaad1e6de1dfe9dc01f50
 <testsuite tests="1" failures="0" name="org.prayasyouthforum.lokesh.hibernate.AppTest" time="0.002" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -22,12 +26,20 @@
     <property name="java.endorsed.dirs" value="F:\Apps\Java\jdk1.8.0_151\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.io.tmpdir" value="C:\Users\Lokesh\AppData\Local\Temp\"/>
+<<<<<<< HEAD
     <property name="line.separator" value="
+=======
+    <property name="line.separator" value="
+>>>>>>> bbcd825375333a929fceaad1e6de1dfe9dc01f50
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
+<<<<<<< HEAD
     <property name="classworlds.conf" value="F:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6222232377436283532.tmp"/>
+=======
+    <property name="classworlds.conf" value="F:\sts-bundle\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2755488302743257207.tmp"/>
+>>>>>>> bbcd825375333a929fceaad1e6de1dfe9dc01f50
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="F:\Apps\Java\jdk1.8.0_151\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:/Apps/Java/jre1.8.0_151/bin/server;F:/Apps/Java/jre1.8.0_151/bin;F:/Apps/Java/jre1.8.0_151/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;F:\apps\nodejs\;C:\apps\Git\cmd;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;F:\Apps\Java\jdk1.8.0_151;C:\Users\Lokesh\AppData\Local\Android\Sdk\platform-tools;C:\Users\Lokesh\AppData\Local\Android\Sdk\tools;C:\apps\TrtoiseGit\bin;C:\WINDOWS\System32\OpenSSH\;C:\Users\Lokesh\AppData\Roaming\npm;C:\Users\Lokesh\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;;F:\sts-bundle\sts-3.9.4.RELEASE;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>

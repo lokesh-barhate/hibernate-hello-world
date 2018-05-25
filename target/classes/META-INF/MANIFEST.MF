@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: Lokesh
 Build-Jdk: 1.8.0_151
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: Lokesh
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> bbcd825375333a929fceaad1e6de1dfe9dc01f50

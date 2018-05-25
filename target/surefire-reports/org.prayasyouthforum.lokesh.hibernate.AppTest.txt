@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 -------------------------------------------------------------------------------
 Test set: org.prayasyouthforum.lokesh.hibernate.AppTest
 -------------------------------------------------------------------------------
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+=======
+-------------------------------------------------------------------------------
+Test set: org.prayasyouthforum.lokesh.hibernate.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+>>>>>>> bbcd825375333a929fceaad1e6de1dfe9dc01f50
